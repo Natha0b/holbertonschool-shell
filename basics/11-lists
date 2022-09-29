@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls -X
+ls -R ..
