@@ -1,2 +1,2 @@
 #!/bin/bash 
-mv *toupper /tmp/u
+mv *S /tmp/u
