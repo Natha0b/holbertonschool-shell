@@ -1,2 +1,2 @@
 #!/bin/bash
--rwx-r-x---
+chmod -rwx-r-x---
