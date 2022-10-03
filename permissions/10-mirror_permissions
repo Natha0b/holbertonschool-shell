@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown hello olleh
+chmod 777 olleh
