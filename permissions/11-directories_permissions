@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 755 /dr1/dr2/dr3
+chmod ugo+rwx /dir*
