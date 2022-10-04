@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $pg "/etc/passwd"
+echo $(pg/etc/passwd)
