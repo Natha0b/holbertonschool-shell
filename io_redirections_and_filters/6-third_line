@@ -1,2 +1,2 @@
 #!/bin/bash
-headiacta
+head -15 iacta
