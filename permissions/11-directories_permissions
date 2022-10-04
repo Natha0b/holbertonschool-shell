@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rwx /dir*
+chmod 754 /dir*
