@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drwxrwxrwx
+chmod a* drwxrwxrwx 
