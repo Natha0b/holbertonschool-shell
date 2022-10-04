@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d777 *
+chmod d-777 *
