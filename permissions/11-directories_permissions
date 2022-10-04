@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d-777 *
+chmod ugo-rwx *
