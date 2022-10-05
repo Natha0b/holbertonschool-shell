@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t b2* | head -1
+ls sample_directory/ -Artls | tail -1
