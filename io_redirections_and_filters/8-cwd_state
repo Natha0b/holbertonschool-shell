@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ".. file1 file2 file3" >ls_cwd_content
+echo "ls -la ls_cwd_content" >ls_cwd_content
