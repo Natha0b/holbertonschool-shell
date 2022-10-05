@@ -1,2 +1,2 @@
 #!/bin/bash
-find ls-t /o_redirections_and_filters 
+ls io_redirections_and_filters/ -Artls 
