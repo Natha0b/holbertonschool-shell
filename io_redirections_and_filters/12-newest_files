@@ -1,2 +1,2 @@
 #!/bin/bash
- ls io_redirections_and_filters/ -Artls | tail -1
+find /io_redirections_and_filters -type f -printf | sort -n
