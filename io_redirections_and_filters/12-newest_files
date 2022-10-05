@@ -1,2 +1,2 @@
 #!/bin/bash
-find /io_redirections_and_filters -type f 
+find ls-t /o_redirections_and_filters 
