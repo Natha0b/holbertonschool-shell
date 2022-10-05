@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1f filename
+tail > -1f iacta
