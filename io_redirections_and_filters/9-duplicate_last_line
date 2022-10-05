@@ -1,2 +1,2 @@
 #!/bin/bash
-head iacta | tail n- 1
+head -n -5 mynote.txt | tail -10
