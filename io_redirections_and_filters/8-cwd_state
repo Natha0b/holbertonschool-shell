@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cwd" >ls_cwd_content
+echo ".. file1 file2 file3" >ls_cwd_content
