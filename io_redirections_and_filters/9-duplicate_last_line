@@ -1,2 +1,2 @@
 #!/bin/bash
-nl <iacta> | tail
+nl <iacta> | tail -n 1
