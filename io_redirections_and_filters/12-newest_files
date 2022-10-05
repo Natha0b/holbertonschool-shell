@@ -1,2 +1,2 @@
 #!/bin/bash
-ls sample_directory/ -Artls | tail -1
+ls -t io_redirections_and_filters
