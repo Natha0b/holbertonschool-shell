@@ -1,3 +1,2 @@
 #!/bin/bash
-export BES=T"School"
-
+export BEST="School"
