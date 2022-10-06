@@ -1,0 +1,2 @@
+#!/bin/bash
+base64 -e -d rot13 Assume ASCII
